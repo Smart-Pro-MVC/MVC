@@ -1,1 +1,1 @@
-# MVC
+# MVC Eğitim Projesi
