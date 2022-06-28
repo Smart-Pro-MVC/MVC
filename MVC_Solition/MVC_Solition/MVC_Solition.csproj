@@ -140,6 +140,15 @@
     <Content Include="Images\slider-img.jpg" />
     <Content Include="Images\telephone.png" />
     <Content Include="Images\twitter.png" />
+    <Content Include="nuritemplate\app-store-badge.svg" />
+    <Content Include="nuritemplate\demo-screen.mp4" />
+    <Content Include="nuritemplate\favicon.ico" />
+    <Content Include="nuritemplate\google-play-badge.svg" />
+    <Content Include="nuritemplate\index.html" />
+    <Content Include="nuritemplate\portrait_black.png" />
+    <Content Include="nuritemplate\scripts.js" />
+    <Content Include="nuritemplate\styles.css" />
+    <Content Include="nuritemplate\tnw-logo.svg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Content\Css\style.css.map" />

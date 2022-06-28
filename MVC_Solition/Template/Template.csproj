@@ -200,11 +200,36 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Temp2\favicon.ico" />
+    <Content Include="Temp2\image2\bg-masthead.jpg" />
+    <Content Include="Temp2\image2\bg-signup.jpg" />
+    <Content Include="Temp2\image2\demo-image-01.jpg" />
+    <Content Include="Temp2\image2\demo-image-02.jpg" />
+    <Content Include="Temp2\image2\ipad.png" />
+    <Content Include="Temp2\index.html" />
+    <Content Include="Temp2\scripts.js" />
+    <Content Include="Temp2\styles.css" />
+    <Content Include="Temp3\about.html" />
+    <Content Include="Temp3\image\about.jpg" />
+    <Content Include="Temp3\image\bg.jpg" />
+    <Content Include="Temp3\image\intro.jpg" />
+    <Content Include="Temp3\image\products-01.jpg" />
+    <Content Include="Temp3\image\products-02.jpg" />
+    <Content Include="Temp3\image\products-03.jpg" />
+    <Content Include="Temp3\index.html" />
+    <Content Include="Temp3\products.html" />
+    <Content Include="Temp3\scripts.js" />
+    <Content Include="Temp3\store.html" />
+    <Content Include="Temp3\styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\asliController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\IbrahimController.cs" />
+    <Compile Include="Controllers\NureddinController.cs" />
+    <Compile Include="Controllers\UmutController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -220,6 +245,19 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Ibrahim\Ibrahim.cshtml" />
+    <Content Include="Views\Umut\UmutView.cshtml" />
+    <Content Include="Views\asli\aslihan.cshtml" />
+    <Content Include="Views\Umut\Umut2.cshtml" />
+    <Content Include="Views\asli\aslihan2.cshtml" />
+    <Content Include="Views\Ibrahim\Ibrahim2.cshtml" />
+    <Content Include="Views\Shared\_Layout2.cshtml" />
+    <Content Include="Views\Umut\Umut3.cshtml" />
+    <Content Include="Views\Shared\_layout3.cshtml" />
+    <Content Include="Views\asli\aslihanaction2.cshtml" />
+    <Content Include="Views\Nureddin\Nureddinview.cshtml" />
+    <Content Include="Views\Shared\_layoutnuri.cshtml" />
+    <Content Include="Views\Nureddin\Nureddin.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
