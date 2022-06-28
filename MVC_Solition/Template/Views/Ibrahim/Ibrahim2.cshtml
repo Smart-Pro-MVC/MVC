@@ -4,5 +4,23 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Ibrahim2</h2>
+<br />
+<br />
+<br />
+<br />
 
+
+<div class="container">
+    <h2> Ibrahim Partial Page </h2>
+    
+    <div class="row">
+        <div class="col-md-3">
+            <p> Buraya Parça sayfa gelecek (Kategoriler ..)</p>
+            @{Html.RenderPartial("_Kategoriler");}
+        </div>
+        <div class="col-md-9 ">
+            <p> Buraya Ürün listeleri gelecek</p>
+        </div>
+
+    </div>
+</div>

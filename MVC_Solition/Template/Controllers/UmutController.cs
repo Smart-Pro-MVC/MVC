@@ -9,7 +9,7 @@ namespace Template.Controllers
     public class UmutController : Controller
     {
         // GET: Umut
-        public ActionResult Umut()
+        public ActionResult UmutView()
         {
             return View();
         }

@@ -9,7 +9,7 @@ namespace Template.Controllers
     public class asliController : Controller
     {
         // GET: asli
-        public ActionResult aslihanaction()
+        public ActionResult aslihan()
         {
             return View();
         }

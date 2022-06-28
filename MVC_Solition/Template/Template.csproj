@@ -258,6 +258,7 @@
     <Content Include="Views\Nureddin\Nureddinview.cshtml" />
     <Content Include="Views\Shared\_layoutnuri.cshtml" />
     <Content Include="Views\Nureddin\Nureddin.cshtml" />
+    <Content Include="Views\Ibrahim\_Kategoriler.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
